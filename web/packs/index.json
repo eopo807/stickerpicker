@@ -2,6 +2,7 @@
   "homeserver_url": "https://matrix-client.matrix.org",
   "packs": [
     "pack.json",
-    "smeshariki.json"
+    "smeshariki.json",
+    "VsratyeOk.json"
   ]
 }
